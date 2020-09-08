@@ -1,0 +1,7 @@
+= Agile
+
+_Agile_ ist ein Buzzword. Agile ist verschrien. Agile ist aber weiterhin eine gute Idee.
+
+== Iteratives Vorgehen
+
+Wir nehmen uns ein gewisses Zeitfenster, um zu entwickeln. Nach Ablauf des Zeitfensters schauen wir uns an, ob wir auf dem richtigen Weg sind. Wenn ja, machen wir weiter. Wenn nein, steuern wir gegen.
