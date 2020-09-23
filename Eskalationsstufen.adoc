@@ -1,0 +1,8 @@
+= Eskalationsstufen
+== Beim Hängenbleiben in der Entwicklung
+
+- 30 min alleine probieren, ob ich alleine weiter komme
+- Jemand anderen dazu holen
+- 2 Stunden probieren
+- Dritte Person dazu holen
+-
