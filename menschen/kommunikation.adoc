@@ -1,0 +1,7 @@
+# (Zwischenmenschlische) Kommunikation
+
+"Wir können _nicht_ *nicht* kommunizieren."
+-- Paul Watzlawick, Menschliche Kommunikation
+
+Jeden Tag tun wir es, ob wir wollen oder nicht. Wir tun es leise, laut, stumm, mit den Augen, dem Gesicht, den Armen, dem ganzen Körper. Wir leben, wir kommunizieren.
+Plaul Watzlawick fasste das in seinem berühmtesten (von https://www.paulwatzlawick.de/axiome.html[insgesamt fünf]) Axiom gut zusammen. Mit jeder Geste, mit jedem Schweigen treffen wir einer Aussage zur gegenwärtigen Situation.
